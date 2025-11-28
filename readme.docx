@@ -1,0 +1,38 @@
+# 🛡️ Relatório de Pentest: TechCorp Solutions
+
+## 📄 Sobre o Projeto
+
+Este repositório armazena o relatório técnico final de uma auditoria de segurança (Penetration Test) realizada contra a infraestrutura da **TechCorp Solutions**, uma empresa fictícia simulada em ambiente de laboratório (CTF).
+
+O objetivo deste trabalho foi simular um cenário real de ataque para identificar, explorar e documentar vulnerabilidades que poderiam comprometer a integridade e confidencialidade de um negócio.
+
+## 🎯 Objetivo e Escopo
+
+A auditoria teve como foco a análise da presença digital da empresa, cobrindo:
+- Aplicação Web e Painéis Administrativos.
+- Infraestrutura de Servidores (FTP e SSH).
+- Segurança de Dados e Credenciais.
+
+O trabalho culminou na elaboração de um **Relatório Profissional**, contendo não apenas as falhas técnicas, mas também uma análise de risco e um plano de ação para correção.
+
+## 🔍 Principais Descobertas
+
+Durante os testes, foram identificadas falhas de segurança variando de nível Médio a Crítico, incluindo:
+
+* 🔴 **Comprometimento de Banco de Dados:** Acesso não autorizado a dados sensíveis.
+* 🔴 **Falhas de Autenticação:** Possibilidade de acesso administrativo sem senha.
+* 🟠 **Vazamento de Informações:** Exposição de credenciais e arquivos de configuração.
+* 🟡 **Segurança Web:** Falhas de validação que permitem injeção de scripts (XSS).
+
+## 📂 O Relatório
+
+O documento completo detalha a metodologia utilizada, as evidências de exploração e as recomendações de correção para a diretoria técnica.
+
+---
+
+## ⚠️ Aviso Legal
+
+Este projeto foi realizado em um ambiente controlado e autorizado para fins educacionais. As técnicas demonstradas servem para aprendizado em Cibersegurança e Defesa Cibernética.
+
+Autor: Arihel Martins Secron
+https://www.linkedin.com/in/arihelsecron/
